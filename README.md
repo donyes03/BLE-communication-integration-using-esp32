@@ -5,6 +5,14 @@ A two-phase BLE communication project developed as a prototype for an automotive
 The project investigates Bluetooth Low Energy communication between an **ESP32** and a **PC**, including BLE connection establishment, security, GATT service/characteristic handling, ATT Read/Write operations, notifications, and application-level vehicle lock/unlock simulation.
 
 > **Project scope:** This project is a BLE/GATT prototype inspired by automotive Digital Key communication flows. 
+---
+
+<div align="center">
+
+**Donyes Hsairi**  
+*Electronic Communication Systems Engineering Student at ENET'Com*
+
+</div>
 
 ---
 
@@ -978,10 +986,6 @@ Phase 2 extends the initial BLE experiments into a more complete application-ori
 * Connection monitoring
 * Detailed diagnostic logging
 
----
 
-# Author
-
-**Donyes Hsairi - Electronic Communication Systems Engineering Student at ENET'Com**
 
 
